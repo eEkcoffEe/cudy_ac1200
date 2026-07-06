@@ -65,7 +65,7 @@ reboot
 ### Шаг 1. Подготовка промежуточной прошивки
 Заводская прошивка принимает только образы, подписанные RSA-ключом. Для обхода этого ограничения используется промежуточный переходный образ OpenWrt.
 
-1. Скачайте архив с промежуточной прошивкой по официальной ссылке: [Cudy OpenWrt Software Download](https://www.cudy.com/blogs/faq/openwrt-software-download) (перенаправляет на [Google Диск](https://www.cudy.com/blogs/faq/openwrt-software-download](https://drive.google.com/drive/folders/1BKVarlwlNxf7uJUtRhuMGUqeCa5KpMnj)). 
+1. Скачайте архив с промежуточной прошивкой по официальной ссылке: [Cudy OpenWrt Software Download](https://www.cudy.com/blogs/faq/openwrt-software-download) (перенаправляет на [Google Диск](https://drive.google.com/drive/folders/1BKVarlwlNxf7uJUtRhuMGUqeCa5KpMnj)). 
 2. Найдите и скачайте архив с именем **`TR1200 V1.zip`**.
 3. Распакуйте архив и извлеките файл **`TR1200-OpenWRT-Flash.bin`**.
 
