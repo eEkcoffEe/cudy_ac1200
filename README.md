@@ -21,7 +21,6 @@
  
 Для истории, все команды, которые привели к успешному результату:
  
-```bash
 # 1. Установка пакетов для работы с USB и файловой системой ext4
 apk update
 apk add kmod-usb-storage kmod-usb-storage-uas block-mount kmod-fs-ext4 e2fsprogs tar
